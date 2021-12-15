@@ -1,19 +1,27 @@
-# Lab11
-<img src="/lab11screenshots/1.png"></img>
+# Деревцов Илья 803в1
 
-Создал новый проект и добавил 2 TextEdit и 2 Button.
-<img src="lab11screenshots/2.png"></img>
+Создаем новый проект и добавил 2 TextEdit и 2 Button.
 
-Добавил разрешения на осуществления вызова и отправки СМС в файле AndroidManifest.xml.
-<img src="lab11screenshots/3.png"></img>
+Добавляем разрешения на осуществления вызова и отправки СМС в файле AndroidManifest.xml.
 
-Добавил обработчик события по кнопке «Отправить СМС».
-<img src="lab11screenshots/4.bmp"></img>
+<img src="1.PNG"></img>
 
-Внес изменения в функцию «onCreate».
+Добавляем обработчик события по кнопке «Отправить СМС».
 
-<img src="lab11screenshots/5f.jpg"></img>
-<img src="lab11screenshots/6f.jpg"></img>
-<img src="lab11screenshots/7f.jpg"></img>
+<img src="2.PNG"></img>
 
-Проверил работу.
+Вносим изменения в функцию «onCreate».
+
+<img src="3.PNG"></img>
+
+Проверяем работу
+
+<img src="111.jpg"></img>
+
+<img src="112.jpg"></img>
+
+<img src="113.jpg"></img>
+
+<img src="114.jpg"></img>
+
+<img src="115.jpg"></img>
